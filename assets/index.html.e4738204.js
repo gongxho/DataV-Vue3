@@ -1,0 +1,1 @@
+import{_ as n,r as t,o,c,a as r,b as e,d as s}from"./app.1efc38a8.js";const d={},_=e("h1",{id:"dev-panel",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#dev-panel","aria-hidden":"true"},"#"),s(" DEV PANEL")],-1);function l(i,h){const a=t("DevPanel");return o(),c("div",null,[_,r(a)])}const m=n(d,[["render",l],["__file","index.html.vue"]]);export{m as default};
